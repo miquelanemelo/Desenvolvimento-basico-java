@@ -8,3 +8,13 @@ Carro2.java
  Carro2
 Carro2Test.java
  Carro2Test
+Supervisor.java
+ Supervisor
+Gerente.java
+ Gerente
+Funcionarios.java
+ Funcionarios
+Atendente.java
+ Atendente
+FuncionarioTest.java
+ FuncionarioTest

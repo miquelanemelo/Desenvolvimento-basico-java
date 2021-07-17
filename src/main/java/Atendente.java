@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Atendente {
+public class Atendente extends Funcionarios{
+
+    @Override
+    public double calcularImposto(){
+        return this.getSalario() * 0.01;
+    }
 }
