@@ -26,3 +26,7 @@ DataSimples.java
  DataSimples
 ExercicioFatura.java
  ExercicioFatura
+ExAulaDate.java
+ ExAulaDate
+Array.java
+ Array
